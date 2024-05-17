@@ -40,3 +40,4 @@ Thumbs.db
 *.pem
 *.key
 *.p12
+docker/mysql/data/*
